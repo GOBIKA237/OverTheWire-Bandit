@@ -13,3 +13,6 @@ bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ cat readme
 
+The output appear like this:
+<img width="1916" height="541" alt="Image" src="https://github.com/user-attachments/assets/be4b9fa4-3bb0-4b3a-b57d-6987c2f36e5c" />
+
