@@ -19,3 +19,9 @@ cat readme
 The output appear like this:
 <img width="1916" height="541" alt="Image" src="https://github.com/user-attachments/assets/be4b9fa4-3bb0-4b3a-b57d-6987c2f36e5c" />
 
+Now using this password we will log in to bandit1 using the ssh command
+
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+
+now we connected to host bandit.labs.overthewire.org using username bandit1. 
+
