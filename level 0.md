@@ -15,7 +15,11 @@ it might ask password which is nothing but bandit0.
 In this level the password is given but in preceding levels you might need to complete a task or view inside a file content mostly
 to get the password for usernames bandit1,bandit2,bandit3,etc....
 
-It should appear like this below:
+if the server got connected output should look like this:
+
+<img width="1615" height="506" alt="Image" src="https://github.com/user-attachments/assets/1cd4d491-086a-4497-9af9-47280c28057b" />
+
+
 https://github.com/GOBIKA237/OverTheWire-Bandit/blob/44b78d4f756517b3b62b23946ad83149394407dd/Screenshot%202025-12-17%20134351.png
 
 
