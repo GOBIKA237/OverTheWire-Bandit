@@ -1,4 +1,5 @@
-Level Goal 
+Level Goal :
+
 The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.
 The important thing in over the wire is to notice the commands you need to solve this level
 In here it is given as ssh
@@ -20,7 +21,6 @@ if the server got connected output should look like this:
 <img width="1615" height="506" alt="Image" src="https://github.com/user-attachments/assets/1cd4d491-086a-4497-9af9-47280c28057b" />
 
 
-https://github.com/GOBIKA237/OverTheWire-Bandit/blob/44b78d4f756517b3b62b23946ad83149394407dd/Screenshot%202025-12-17%20134351.png
 
 
 
