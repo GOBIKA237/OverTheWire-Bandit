@@ -10,7 +10,9 @@ ls: ls (list) is a fundamental Linux/Unix command to display files and directori
 cat : to view contents of the file 
 
 ls
+
 readme
+
 cat readme
 
 The output appear like this:
