@@ -7,6 +7,7 @@ The commands to be used:
 ls , cd , cat , file , du , find
 
 ls: ls (list) is a fundamental Linux/Unix command to display files and directories in the current or specified location
+
 cat : to view contents of the file 
 
 ls
