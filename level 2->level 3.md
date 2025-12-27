@@ -1,4 +1,5 @@
 Level Goal
+
 The password for the next level is stored in a file called --spaces in this filename-- located in the home directory
 
 Connect to host bandit2 using ssh command and password we got from earlier level
@@ -7,8 +8,11 @@ Connect to host bandit2 using ssh command and password we got from earlier level
 
 use ls command to list the files in directory 
 ls
+
 --spaces in the filename--
+
 use cat command to view the contents of the file which returns the password
+
 cat ./--spaces\ in\ this\ filename--
 
 Output should look like this
