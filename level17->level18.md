@@ -16,15 +16,6 @@ diff passwords.new passwords.old
 
 Step 3: Analyze the output
 
-< x2gLTTjFwMOHQ8OWNbMN362QKxfRqGlO
----
-> pGozC8kOHLkBM0aL0ICPvLV1IjQ5F1VA
-
-
-< → line present in passwords.new
-
-> → line present in passwords.old
-
 The new password is the line marked with <.
 
 Step 4: Identify the password for bandit18
