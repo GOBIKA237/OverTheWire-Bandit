@@ -10,7 +10,6 @@ Use ssh and password we got earlier and login to host in two different terminals
 
 <img width="1142" height="493" alt="image" src="https://github.com/user-attachments/assets/b3f63fd8-dde7-4725-b1f6-1c8036b58683" />
 
-<img width="1562" height="367" alt="image" src="https://github.com/user-attachments/assets/37548b42-caa7-4c06-893b-4dd829350b39" />
 
 In one terminal
 
@@ -67,6 +66,8 @@ XXXXXXXXXXXXX
 YYYYYYYYYYYYY
 
 Output should look something like this:
+
+<img width="1562" height="367" alt="image" src="https://github.com/user-attachments/assets/37548b42-caa7-4c06-893b-4dd829350b39" />
 
 <img width="963" height="248" alt="image" src="https://github.com/user-attachments/assets/8b6f9ca8-c31b-448c-8419-a46d2f64f0ca" />
 
