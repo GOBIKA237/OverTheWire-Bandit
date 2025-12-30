@@ -25,7 +25,7 @@ Step 5: Read the cron job for bandit22
 cat cronjob_bandit22
 
 @reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
-* * * * * bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
+bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
 
 Step 6: Read the cron job script
 
