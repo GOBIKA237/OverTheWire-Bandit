@@ -1,4 +1,5 @@
 Level Goal
+
 Good job getting a shell! Now hurry and grab the password for bandit27!
 
 In thse same vi from before level
