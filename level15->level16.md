@@ -1,6 +1,6 @@
 Level Goal
 
-The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost.
+The password for the next level can be retrieved by submitting the password of the current level to port 30001 on localhost.
 
 Use ssh command and the password we gott from eariler and try to log in as user bandit15 to the host
 
