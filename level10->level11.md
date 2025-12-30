@@ -17,7 +17,7 @@ cat data.txt
 
 <img width="1189" height="156" alt="image" src="https://github.com/user-attachments/assets/7756e72b-8f5c-4bc4-910b-46f7675e44e0" />
 
-Step 3: It says in level goal that the content is base64 encoded just go to google and search for base64 and use any tool.
+Step 3: It says in level goal that the content is base64 encoded just go to google and search for base64 decoder and use any tool.
 
 Output should look something like this:
 
